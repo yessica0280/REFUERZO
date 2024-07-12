@@ -30,27 +30,44 @@ body{
     font-size: 1.5vw;
     margin-top: -2vw;
     margin-left: 50vw;
+    text-decoration: none;
+}
+#home:hover{
+    border-bottom: #d79f51 0.2vw solid; 
 }
 #about{
     color: #f1eff0;
     font-family: letra2;
     font-size: 1.5vw;
-    margin-top: -1.7vw;
-    margin-left: 57vw;
+    margin-left: 2vw;
+    margin: 1 auto;
+    position: relative;
+    text-decoration: none;
+}
+#about:hover{
+    border-bottom: #d79f51 0.2vw solid; 
 }
 #menu{
     color: #f1eff0;
     font-family: letra2;
     font-size: 1.5vw;
-    margin-top: -1.8vw;
-    margin-left: 64vw;
+    margin-left: 2vw;
+    margin: 1 auto;
+    text-decoration: none;
+}
+#menu:hover{
+    border-bottom: #d79f51 0.2vw solid; 
 }
 #contacto{
     color: #f1eff0;
     font-family: letra2;
     font-size: 1.5vw;
-    margin-top: -1.8vw;
-    margin-left: 70vw;
+    margin-left: 2vw;
+    margin: 1 auto;
+    text-decoration: none;
+}
+#contacto:hover{
+    border-bottom: #d79f51 0.2vw solid; 
 }
 #start{
     color: #f1eff0;
@@ -80,8 +97,11 @@ body{
     font-family: letra2;
     font-size: 2.5vw;
     border: solid transparent;
-    margin: 0 auto;
-    margin-top: 1.5vw;
+    margin: 1 auto;
+    margin-top: 5vw;
+    margin-left: 37vw;
+    position: absolute;
+    text-decoration: none;
 }
 #imagen2{
     width: 45vw;
